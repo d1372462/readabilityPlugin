@@ -1,4 +1,4 @@
-#Java Code Readability Plugin
+# Java Code Readability Plugin
 
 Intellij Java project files can be found in Source.tar.gz
 
